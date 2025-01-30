@@ -9,7 +9,7 @@
   --light-color: #666;
   --light-bg: #f4f4f4;
   --box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
-  --border: 0.1rem sloid rgba(0, 0, 0, 0.3);
+  --border: 0.1rem solid rgba(0, 0, 0, 0.3);
   --gradient: linear-gradient(90deg, var(--cielo), var(--blue));
   --gradient-hover: linear-gradient(90deg, var(--blue), var(--cielo));
 }
@@ -50,7 +50,7 @@ html {
 section {
   padding: 3rem 2rem;
   margin: 0 auto;
-  max-width: 1200;
+  max-width: 1200px;
 }
 .btn {
   margin-top: 1rem;
@@ -416,3 +416,4 @@ body {
     font-size: 4rem;
   }
 }
+
