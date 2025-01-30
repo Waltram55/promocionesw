@@ -159,7 +159,7 @@ body {
 }
 
 .offer-countdown {
-  background: url(/imagen/bg_counter.jpg) no-repeat;
+  background: url('imagen/bg_counter.jpg') no-repeat;
   background-size: cover;
   background-position: 2rem 0;
   padding: 2rem 0;
