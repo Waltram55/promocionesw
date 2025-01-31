@@ -236,7 +236,7 @@ body {
 }
 
 .contact-container{
-  background: url(/imagen/contact_bg.jpg) no-repeat;
+  background: url('imagen/contact_bg.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
